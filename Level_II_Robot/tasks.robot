@@ -84,7 +84,6 @@ Go to order another robot
 Create ZIP file of receipts
     Archive Folder With Zip    output/receipts    output/receipts.zip
     
-
 *** Tasks ***
 Order robots from RobotSpareBin Industries Inc
     ${orders}=    Get Orders CSV
